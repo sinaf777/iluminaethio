@@ -75,7 +75,7 @@ const MEMBER = {
   initials: 'TB',
   avatar: '/profile.png',
   age: 44,
-  region: 'Unidentified'
+  region: 'Unidentified',
   country: 'Ethiopia',
   occupation: 'Daily Labourer',
   registeredOn: '6 November 2026',
